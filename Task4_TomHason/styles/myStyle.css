@@ -1,0 +1,64 @@
+body 
+{
+    direction:rtl;
+    font-family:'Open Sans Hebrew';
+    width:960px;
+    margin:0 auto;
+ 
+}
+header{
+    background-color:oldlace;
+    color:darkblue;
+    font-size:55px;
+    text-align:center;
+    font-weight:bold;
+}
+#java{
+
+display:inline;
+width:100px;
+float:right;
+
+}
+#adobe{
+
+display:inline;
+
+margin-right:350px;
+width:100px;
+float:right;
+margin-left:350px;
+}
+#education{
+ 
+ display:inline;
+ width:50px;
+ float:right;
+
+}
+h1,h2,h3{ text-align:center;}
+    
+
+#facebook{
+padding-right:450px;
+}
+
+#fb{
+    -webkit-transition: all 1.4s ease;
+-moz-transition: all 1.4s ease;
+-ms-transition: all 1.4s ease;
+-o-transition: all 1.4s ease;
+transition: all 1.4s ease;
+}
+
+#fb:hover{
+-moz-transform: scale(1.4);
+-webkit-transform: scale(1.4);
+-o-transform: scale(1.4);
+-ms-transform: scale(1.4);
+transform: scale(1.4);
+
+}
+#form{
+    padding-right:200px;
+}
